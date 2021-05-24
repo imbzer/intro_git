@@ -1,3 +1,5 @@
 hello world
 
 基本的な
+git add
+git commit
